@@ -1,3 +1,8 @@
+*.html
+*.html.gz
+*.yml
+out/
+data/
 *.gem
 *.rbc
 /.config
