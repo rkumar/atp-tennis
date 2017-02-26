@@ -21,9 +21,12 @@ There are some issues with the generation of missing data:
 
 I will prepare data for 2016 and 2017, but beyond that depends on whether others are interested, and how much work is involved. I have data for 2016 ready but this has to be checked.
 
+
 Feedback appreciated.
 
 Observations:
 - Brisbane has a draw of 28 as per ATP, not 32 (JS's database has 32). In fact, it seems that all events with a draw of 28 are showing 32. There are only 28 matches.
 - match_num is 301 minus ATP's match_num. So MS001 becomes 300. Final is always 300, SF 299 and 298. No, majors have the final as 126 or 226.
 - Height. I don't know why height is mentioned here. Jeff's height varies from the ATP one, and often is missing. In some cases, it tallies with the wikipedia entry. I use the ATP height.
+- Names: The ATP names contain hyphens, such as Tsonga and Yen Hsun. JS's names don't and some have a middle name too.
+- Start dates often are one day off and in Olympics are several days off. This affects the age which is to ten decimals. Why is age in so many decimals ???
